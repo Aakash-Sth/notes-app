@@ -6,9 +6,9 @@ UI of screens:
 
 <img src="./assets/images/Home%20Screen.png" height=500><br/>*Home Screen*
 
-<img src="./assets/images/Edit%20Note%20Screen.png" height=500><br/>*Login Screen*
+<img src="./assets/images/Edit%20Note%20Screen.png" height=500><br/>*Edit Note Screen*
 
-<img src="./assets/images/Recent%20Notes.png" height=500 ><br/>*Recent Notes*
+<img src="./assets/images/Recent%20Notes.png" height=500 ><br/>*Recent Notes Screen*
 
 
 ## Getting Started
